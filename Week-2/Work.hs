@@ -1,5 +1,6 @@
 import Prelude() -- Do not import prelude stl via ()
 import MiniPrelude -- import MiniPrelude library from prof
+import Test.QuickCheck
 
 -- This is the program for practice 0
 

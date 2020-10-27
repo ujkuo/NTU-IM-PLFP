@@ -89,7 +89,7 @@ rotate n xs = undefined
 
 positions :: Eq a => a -> List a -> List Int
 positions x xs = undefined
-
+  -- eq: a cons
   -- the first position where a character appears.
 
 pos :: Eq a => a -> List a -> Int
